@@ -219,7 +219,7 @@ ship "Harbinger"
 		"Heavy Anti-Missile Turret"
 		"Proton Turret"
 		Hyperdrive
-		"Big Ol' Proton Gun"
+		"Proton Cascader"
 		"LP144a Battery Pack"
 		"Liquid Nitrogen Cooler"
 		"Proton Gun" 8

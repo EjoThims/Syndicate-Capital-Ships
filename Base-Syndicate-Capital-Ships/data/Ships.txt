@@ -267,7 +267,7 @@ ship "Harbinger"
 		parallel
 	gun 50 -25 "Proton Gun"
 		parallel
-	gun 0 -160 "Big Ol' Proton Gun"
+	gun 0 -160 "Proton Cascader"
 		parallel
 	turret 0 -60 "Proton Turret"
 	turret -30 0 "Anti-Missile Turret"

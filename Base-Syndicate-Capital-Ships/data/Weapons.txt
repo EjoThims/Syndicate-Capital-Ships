@@ -110,7 +110,7 @@ effect "proton impact"
 
 
 outfitter "human plugins"
-	"Big Ol' Proton Gun"
+	"Proton Cascader"
 
 outfitter "Syndicate Advanced"
-	"Big Ol' Proton Gun"
+	"Proton Cascader"

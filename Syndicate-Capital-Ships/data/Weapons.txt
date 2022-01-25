@@ -20,6 +20,7 @@ outfit "Proton Cascader"
 		"submunition" "Large Proton Fragment" 6
 		"velocity" 28
 		"lifetime" 1
+		"range override" 3000
 		"burst reload" 9
 		"burst count" 26
 		"reload" 13

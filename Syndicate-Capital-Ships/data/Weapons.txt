@@ -27,7 +27,6 @@ outfit "Proton Cascader"
 		"firing energy" 64
 		"firing force" 6
 		"firing heat" 240
-		"range override" 1300
 	description "A larger prototype of the Proton gun which manages a much greater potential range and total damage, but with even less reliability than the standard production model and a small cooldown cycle due to greater energy decay, this version has been pulled out of mothballs to utilize it's extended range as the centerpiece of the new Harbinger chasis. This weapon is incrediably dangerous in its primary role against distant, slow moving targets, but is devastating when employed at short range."
 
 outfit "Tiny Proton Fragment"

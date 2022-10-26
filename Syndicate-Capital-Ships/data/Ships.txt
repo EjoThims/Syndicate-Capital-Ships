@@ -154,16 +154,16 @@ ship "Fortress"
 	gun -90 50 "Twin Blaster"
 		angle 225
 		parallel
-	turret -95 0 "Heavy Anti-Missile Turret"
-	turret -65 -65 "Heavy Anti-Missile Turret"
-	turret 0 -100 "Heavy Anti-Missile Turret"
-	turret 67 -66 "Heavy Anti-Missile Turret"
-	turret 95 0 "Quad Blaster Turret"
-	turret 67 66 "Quad Blaster Turret"
-	turret 0 100 "Quad Blaster Turret"
-	turret -65 66 "Quad Blaster Turret"
-	turret 0 50 "Quad Blaster Turret"
-	turret 0 -50 "Quad Blaster Turret"
+	turret 1 -100 "Heavy Anti-Missile Turret"
+	turret 75 -73 "Quad Blaster Turret"
+	turret 38.5 0.5 "Heavy Anti-Missile Turret"
+	turret 106 1 "Quad Blaster Turret"
+	turret 75.5 74 "Quad Blaster Turret"
+	turret 1 101 "Heavy Anti-Missile Turret"
+	turret -74 74.5 "Quad Blaster Turret"
+	turret -38 0.5 "Heavy Anti-Missile Turret"
+	turret -105 1 "Quad Blaster Turret"
+	turret -74.5 -73 "Quad Blaster Turret"
 	bay "Fighter" -115 0 over
 		angle 270
 	bay "Fighter" -80 -80 over

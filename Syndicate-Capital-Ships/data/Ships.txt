@@ -291,6 +291,6 @@ shipyard "Syndicate Advanced"
 	"Fortress"
 	"Harbinger"
 
-shipyard "humanPlugins"
+shipyard "human"
 	"Fortress"
 	"Harbinger"
